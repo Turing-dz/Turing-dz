@@ -2052,7 +2052,7 @@ p > code {
   }
 }
 body {
-      background-color: #f8f9fa;
+      background-color: #ff000000;
     }.header {
         width: 960px;
         margin: 0 auto;
@@ -2063,13 +2063,13 @@ body {
         margin: 0 auto;
       }
     body {
-      color: #555;
+      color: #f8f9fa;
     }
     .next-md-body {
-      color: #555;
+      color: #f8f9fa;
     }
     .next-md-body h1, .next-md-body h2 {
-      border-bottom-color: #555;
+      border-bottom-color: #f8f9fa;
     }
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
       background: #555555fe;
@@ -2119,11 +2119,11 @@ body {
       }.nav-item a:hover {
         color: #222;
       }.nav-item-active {
-      background: #000000fe;
+      background: #ff000000;
     }
 
     .nav-item:hover {
-      background: #000000fe;
+      background: #ff000000;
       color: rgba(0, 0, 0, 0.98);
     }.site-author-image {
       border-radius: 50%;
@@ -2159,13 +2159,13 @@ body {
       color: #fc6423;
       border-bottom-color: #fc6423;
     }.bg-color {
-      background-color: #fffffffe;
+      background-color: #ff000000;
     }
     .head-top-line {
       background: #222;
     }
     .brand {
-      background: transparent;
+      background: #ff000000;
     }
     body {
       cursor: default;
