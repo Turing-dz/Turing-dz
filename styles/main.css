@@ -2052,7 +2052,7 @@ p > code {
   }
 }
 body {
-      background-color: #000000;
+      background-color: #f9f9f9fe !important;
     }.header {
         width: 960px;
         margin: 0 auto;
@@ -2072,7 +2072,7 @@ body {
       border-bottom-color: #555;
     }
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
-      background: #f8f9fafe;
+      background: #555555fe;
     }h1, h2, h3, h4, h5, h6 {
       color: #555;
     }
@@ -2110,8 +2110,9 @@ body {
     .next-md-body a:hover, .friends-box a:hover {
       color: #222;
       border-bottom-color: #222;
-    }.nav-toggle .line {
-      background-color: #000000 !important;
+    }
+    .nav-toggle .line {
+      background-color:  !important;
     }
       .nav-item a {
         color:  #555;
@@ -2158,23 +2159,15 @@ body {
       color: #fc6423;
       border-bottom-color: #fc6423;
     }.bg-color {
-      background-color: #000000fe;
-    }
-    .site-meta {
-      background: #000000 !important;
+      background-color: #fffffffe;
     }
     .head-top-line {
-      background: #000000;
+      background: #222;
     }
     .brand {
-      background: #000000fe;
+      background: transparent;
     }
-    .main-title, .brand {
-      color: #000000 !important;
-    }
-    .mist .site-title i {
-      background: #000000fe;
-    }body {
+    body {
       cursor: default;
     }a {
       cursor: pointer;
