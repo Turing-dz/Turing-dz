@@ -2072,7 +2072,7 @@ body {
       border-bottom-color: #555;
     }
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
-      background: #eeeeeefe;
+      background: #f8f9fafe;
     }h1, h2, h3, h4, h5, h6 {
       color: #555;
     }
@@ -2119,11 +2119,11 @@ body {
       }.nav-item a:hover {
         color: #222;
       }.nav-item-active {
-      background: #f9f9f9fe;
+      background: #f8f9fafe;
     }
 
     .nav-item:hover {
-      background: #f9f9f9fe;
+      background: #f8f9fafe;
       color: rgba(0, 0, 0, 0.98);
     }.site-author-image {
       border-radius: 50%;
@@ -2159,7 +2159,7 @@ body {
       color: #fc6423;
       border-bottom-color: #fc6423;
     }.bg-color {
-      background-color: #fffffffe;
+      background-color: #f8f9fafe;
     }
     .site-meta {
       background: #000 !important;
