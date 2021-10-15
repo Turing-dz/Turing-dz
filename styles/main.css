@@ -2171,10 +2171,10 @@ body {
       background: #ffa94dfe;
     }
     .main-title, .brand {
-      color: #222 !important;
+      color: #f59f00 !important;
     }
     .mist .site-title i {
-      background: #222222fe;
+      background: #f59f00fe;
     }body {
       cursor: default;
     }a {
